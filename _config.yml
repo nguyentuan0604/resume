@@ -172,7 +172,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middle
         title: Ho Chi Minh City University of Technology (Bach Khoa)
         caption: 2010 - 2013
         sub_title: BE Electrical and Electronics Engineering
@@ -191,18 +191,18 @@ content:
         caption: Issued Aug 2022 - Expires Aug 2025
         sub_title: AWS Certified Solutions Architect - Associate
 
-  - title: References # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Uyen Nguyen
-        caption: Head of Engineer - National Australia Bank
-        sub_title: (+84) 93 2869805
+  # - title: References # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: Uyen Nguyen
+  #       caption: Head of Engineer - National Australia Bank
+  #       sub_title: (+84) 93 2869805
 
-      - layout: right
-        title: Hugh Tran
-        caption: Manager, Engineer - National Australia Bank
-        sub_title: (+84) 93 8297100
+  #     - layout: right
+  #       title: Hugh Tran
+  #       caption: Manager, Engineer - National Australia Bank
+  #       sub_title: (+84) 93 8297100
 
   # - title: A Little More About Me
   #   layout: text
