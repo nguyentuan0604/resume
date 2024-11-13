@@ -82,16 +82,15 @@ content:
         #  NAB Contact Center
         description: | # this will include new lines to allow paragraphs
           - Automation Testing and Manual Testing
-          - Black Box Testing and Grey Box Testing
+          - Shift-left testing approach
           - Programming languages: Java, JavaScript
           - Familiarity with Unix-like system, scripting languages
           - Team Management
-          - Test framework and libraries: Selenium WebDriver, WebDriverIO, RestAssured, TestNG/JUnit, Cypress, - Mocha, Cucumber,  BDD, TDD
-          - Test tools: Postman, JMeter
+          - Test framework and libraries: Selenium WebDriver, WebDriverIO, RestAssured, TestNG/JUnit, Cypress, Mocha, Cucumber, BDD, TDD
           - Monitor: CloudWatch log, Splunk log
           - CI/CD: Jenkins, Harness
           - SVC: Git, SVN
-          - Management tools: Jira, Rally, qTest
+          - Management tools: qTest, Jira, Rally
           - AWS Certified Solutions Architect - Associate
           - Others: Docker, Gradle, Maven, npm
 
