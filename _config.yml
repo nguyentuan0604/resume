@@ -186,9 +186,9 @@ content:
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middle
         title: AWS
-        caption: Issued Aug 2022 · Expires Aug 2025
+        caption: Issued Aug 2022 - Expires Aug 2025
         sub_title: AWS Certified Solutions Architect - Associate
 
   - title: References # Title for the section
@@ -199,7 +199,7 @@ content:
         caption: Head of Engineer - National Australia Bank
         sub_title: (+84) 93 2869805
 
-      - layout: left
+      - layout: right
         title: Hugh Tran
         caption: Manager, Engineer - National Australia Bank
         sub_title: (+84) 93 8297100
