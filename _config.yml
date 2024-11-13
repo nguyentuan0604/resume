@@ -74,7 +74,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: National Australian  Bank, Vietnam
+        title: National Australian Bank, Vietnam
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Lead, Quality Engineer
@@ -95,51 +95,113 @@ content:
           - Train new team members on testing processes, contact center systems, and testing tools.
 
       - layout: left
-        title: National Australian  Bank, Vietnam - 2
+        title: Nash Tech
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Lead, Quality Engineer
-        caption: Jan 2021 - Present
+        sub_title: Automation Test Lead
+        caption: Mar 2020 - Oct 2020
         quote: >
-          NAB Contact Center
+          Pinsent Manson  A product to generate and manage legal documents.
         description: | # this will include new lines to allow paragraphs
-          - Assign tasks, guide, and support team members in testing activities.
-          - Evaluate team performance and skills to foster development and improve overall efficiency.
-          - Set up the end-to-end testing process, from planning, design, and execution to reporting results.
-          - Create detailed test plans, including strategy, scope, objectives, and risk assessment.
-          - Determine suitable testing types, such as functional testing, performance testing, integration testing
-          - Conduct functional and non-functional testing on contact center features (e.g., API test, call flow testing, etc.).
-          - Utilize automation tools to optimize the testing process, ensuring the system is stable and meets user requirements.
-          - Track and manage defects identified during testing, ensuring timely reporting, follow-up, and collaboration with development teams for effective resolution.
-          - Coordinate with departments such as development, project management, customer support, and business analysis to ensure product quality and achieve project goals.
-          - Participate in regular meetings, report test results to stakeholders, and suggest quality improvement initiatives.
-          - Train new team members on testing processes, contact center systems, and testing tools.
+          - Work as Test Lead.
+          - Implement Automation testing framework to support UI and API testing in BDD style
+          - Create the technical proposal, estimation plan, test strategy and test plan
+          - Create test cases based on client requirement
+          - Perform code review and manual test cases review
+          - Support juniors in adapting project technical stacks 
+          - Train manual testers to work as automation test engineers
+
+      - layout: left
+        title: Hansen Technologies
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Automation Test Lead
+        caption: Jan 2017 - Feb 2020
+        quote: >
+          A product of Billing Solutions for Energy, Pay TV, Telecom industries.
+        description: | # this will include new lines to allow paragraphs
+          - Work as an Automation Test Lead.
+          - Conduct a POC demo to prove the team competencies.
+          - Design and develop automation testing framework from scratch.
+          - Work towards the solutions for problems in the design and development process.
+          - Implement automation scripts based on manual test cases.
+          - Implement automation testing report.
+
+      - layout: left
+        title: Terralogic Inc.
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Sr Software Test Engineer
+        caption: Aug 2016 - Nov 2017
+        quote: >
+          This project is to maintain and develop new features for a healthcare system.
+        description: | # this will include new lines to allow paragraphs
+          - Support and overcome members' obstacles.
+          - Monitor workload and work progress to meet the deadline.
+          - Review test cases, test results for members in teams.
+          - Conduct functional test, regression test, and system test.
+
+      - layout: left
+        title: Freelancer
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: NodeJS Developer
+        caption: Aug 2016 - Nov 2017
+        quote: >
+          Build a website based on NodeJS technology.
+        description: | # this will include new lines to allow paragraphs
+          - Design frontend/WebUI using Bootstrap framework.
+          - Implement backend using NodeJS technology.
+          - Design/implement database based on MongoDB.
+
+      - layout: left
+        title: IMT Solutions
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Software Test Engineer
+        caption: Mar 2013 - Jul 2015
+        quote: >
+          Working on Zimbra Mail, an email collaboration for enterprise customers based on LINUX.
+        description: | # this will include new lines to allow paragraphs
+          - Design and build network infrastructure to set up mail servers.
+          - Install, deploy, maintain, and troubleshoot mail servers.
+          - Support customer needs, investigate root causes.
+          - Execute functional test, regression test.
+          - Modify and execute automation test suite.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: Ho Chi Minh City University of Technology (Bach Khoa)
         caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        sub_title: BE Electrical and Electronics Engineering
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # description: | # this will include new lines to allow paragraphs
+        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: AWS
+        caption: Issued Aug 2022 · Expires Aug 2025
+        sub_title: AWS Certified Solutions Architect - Associate
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbing
+  #     - Gaming
+  #     - Knitting
+  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+  #     Look at this cool image
+  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
