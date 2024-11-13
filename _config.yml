@@ -72,7 +72,7 @@ content:
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         #title: National Australian Bank, Vietnam
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -81,10 +81,6 @@ content:
         #quote: >
         #  NAB Contact Center
         description: | # this will include new lines to allow paragraphs
-          - Assign tasks, guide, and support team members in testing activities.
-          - Evaluate team performance and skills to foster development and improve overall efficiency.
-          - Set up the end-to-end testing process, from planning, design, and execution to reporting results.
-          - Create detailed test plans, including strategy, scope, objectives, and risk assessment.
           - Automation Testing and Manual Testing
           - Black Box Testing and Grey Box Testing
           - Programming languages: Java, JavaScript
