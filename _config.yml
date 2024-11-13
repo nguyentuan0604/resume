@@ -172,7 +172,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
+      - layout: right
         title: Ho Chi Minh City University of Technology (Bach Khoa)
         caption: 2010 - 2013
         sub_title: BE Electrical and Electronics Engineering
@@ -186,7 +186,7 @@ content:
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
+      - layout: center
         title: AWS
         caption: Issued Aug 2022 - Expires Aug 2025
         sub_title: AWS Certified Solutions Architect - Associate
