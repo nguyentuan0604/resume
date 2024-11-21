@@ -87,6 +87,7 @@ content:
           - Familiarity with Unix-like system, scripting languages
           - Team Management
           - Test framework and libraries: Selenium WebDriver, WebDriverIO, RestAssured, TestNG/JUnit, Cypress, Mocha, Cucumber, BDD, TDD
+          - Performance testing tool: K6
           - Monitor: CloudWatch log, Splunk log
           - CI/CD: Jenkins, Harness
           - SVC: Git, SVN
@@ -113,6 +114,7 @@ content:
           - Determine suitable testing types, such as functional testing, performance testing, integration testing
           - Conduct functional and non-functional testing on contact center features (e.g., API test, call flow testing, etc.).
           - Utilize automation tools to optimize the testing process, ensuring the system is stable and meets user requirements.
+          - Validate performance benchmarks, and ensure system reliability under peak usage using K6 library
           - Track and manage defects identified during testing, ensuring timely reporting, follow-up, and collaboration with development teams for effective resolution.
           - Coordinate with departments such as development, project management, customer support, and business analysis to ensure product quality and achieve project goals.
           - Participate in regular meetings, report test results to stakeholders, and suggest quality improvement initiatives.
