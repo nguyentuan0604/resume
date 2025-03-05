@@ -86,14 +86,14 @@ content:
           - Programming languages: Java, JavaScript
           - Familiarity with Unix-like system, scripting languages
           - Team Management
-          - Test framework and libraries: Selenium WebDriver, WebDriverIO, RestAssured, TestNG/JUnit, Cypress, Mocha, Cucumber, BDD, TDD
+          - Test framework and libraries: Playwright, Selenium WebDriver, WebDriverIO, RestAssured, TestNG/JUnit, Cypress, Cucumber, BDD, TDD
           - Performance testing tool: K6
           - Monitor: CloudWatch log, Splunk log
           - CI/CD: Jenkins, Harness
           - SVC: Git, SVN
           - Management tools: qTest, Jira, Rally
           - AWS Certified Solutions Architect - Associate
-          - Others: Docker, Gradle, Maven, npm
+          - Others: Docker, Kubernetes, Gradle, Maven, npm
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -107,9 +107,16 @@ content:
         quote: >
           NAB Contact Center
         description: | # this will include new lines to allow paragraphs
+          - My primary responsibility is to ensure the quality of backend microservices that support NAB’s call center operations.
+          - Set up a test framework from scratch, including selecting the right tools, designing the architecture, and implementing automated test suites for scalable and maintainable testing.
+          - Working with various testing tools, including:
+            - API Testing: Implemented data-driven testing using Java and JavaScript
+            - UI Testing: Automated UI tests using Selenium
+            - Test Data Preparation: Utilized JavaScript scripts for generating and managing test data
+            - Database Testing: Developed test data scripts for DynamoDB and PostgreSQL
+            - Performance Testing: Conducted load and stress testing with 
           - Assign tasks, guide, and support team members in testing activities.
           - Evaluate team performance and skills to foster development and improve overall efficiency.
-          - Set up the end-to-end testing process, from planning, design, and execution to reporting results.
           - Create detailed test plans, including strategy, scope, objectives, and risk assessment.
           - Determine suitable testing types, such as functional testing, performance testing, integration testing
           - Conduct functional and non-functional testing on contact center features (e.g., API test, call flow testing, etc.).
@@ -142,7 +149,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Automation Test Lead
-        caption: Jan 2017 - Feb 2020
+        caption: Jan 2018 - Feb 2020
         quote: >
           A product of Billing Solutions for Energy, Pay TV, Telecom industries.
         description: | # this will include new lines to allow paragraphs
