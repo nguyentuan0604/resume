@@ -107,24 +107,25 @@ content:
         quote: >
           NAB Contact Center
         description: | # this will include new lines to allow paragraphs
-          - My primary responsibility is to ensure the quality of backend microservices that support NAB’s call center operations.
-          - Set up a test framework from scratch, including selecting the right tools, designing the architecture, and implementing automated test suites for scalable and maintainable testing.
-          - Working with various testing tools, including:
-            - API Testing: Implemented data-driven testing using Java and JavaScript
-            - UI Testing: Automated UI tests using Selenium
-            - Test Data Preparation: Utilized JavaScript scripts for generating and managing test data
-            - Database Testing: Developed test data scripts for DynamoDB and PostgreSQL
-            - Performance Testing: Conducted load and stress testing with 
+          - My primary responsibility is to ensure the quality of backend microservices supporting NAB’s call center operations.
+          - Utilize automation tools to optimize the testing process, ensuring system stability and compliance with user requirements.
+          - Set up a test framework from scratch, including tool selection, architecture design, and implementing automated test suites for scalable and maintainable testing.
+          - Work with various testing tools, including:
+            - API Testing: Implemented data-driven testing using Java and JavaScript.
+            - UI Testing: Automated UI tests using Selenium.
+            - Test Data Preparation: Used JavaScript scripts for generating and managing test data.
+            - Database Testing: Developed test data scripts for DynamoDB and PostgreSQL.
+            - Performance Testing: Conducted load and stress testing with K6.
+          - Create detailed test plans, defining strategy, scope, objectives, and risk assessments.
+          - Ensure stability, security, and accuracy of core banking operations, including transactions and customer interactions.
+          - Determine suitable testing types, such as functional testing, integration testing and performance testing.
+          - Conduct functional and non-functional testing on Contact Center features (e.g., API tests, call flow testing).
+          - Validate performance benchmarks and ensure system reliability under peak usage using the K6 library.
+          - Track and manage defects, ensuring timely reporting, follow-ups, and effective collaboration with development teams for resolution.
+          - Coordinate with key stakeholders such as development, project management, customer support, and business analysis teams to ensure product quality and achieve project goals.
+          - Participate in regular meetings, report test results to stakeholders, and propose quality improvement initiatives.
           - Assign tasks, guide, and support team members in testing activities.
-          - Evaluate team performance and skills to foster development and improve overall efficiency.
-          - Create detailed test plans, including strategy, scope, objectives, and risk assessment.
-          - Determine suitable testing types, such as functional testing, performance testing, integration testing
-          - Conduct functional and non-functional testing on contact center features (e.g., API test, call flow testing, etc.).
-          - Utilize automation tools to optimize the testing process, ensuring the system is stable and meets user requirements.
-          - Validate performance benchmarks, and ensure system reliability under peak usage using K6 library
-          - Track and manage defects identified during testing, ensuring timely reporting, follow-up, and collaboration with development teams for effective resolution.
-          - Coordinate with departments such as development, project management, customer support, and business analysis to ensure product quality and achieve project goals.
-          - Participate in regular meetings, report test results to stakeholders, and suggest quality improvement initiatives.
+          - Evaluate team performance and skills to foster professional development and improve overall efficiency.
           - Train new team members on testing processes, contact center systems, and testing tools.
 
       - layout: left
@@ -155,7 +156,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Work as an Automation Test Lead.
           - Conduct a POC demo to prove the team competencies.
-          - Design and develop automation testing framework from scratch.
+          - Design and develop automation testing framework using Selenium and RestAssured.
           - Work towards the solutions for problems in the design and development process.
           - Implement automation scripts based on manual test cases.
           - Implement automation testing report.
