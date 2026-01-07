@@ -99,6 +99,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Aperia
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Software Quality Assurance Engineer
+        caption: May 2025 - Present
+        quote: >
+          QA Engineer building reliable, scalable quality with Playwright and AI.
+        description: | # this will include new lines to allow paragraphs
+          - QA Engineer specializing in web application testing, Playwright automation, and AI-assisted quality workflows
+          - Design and maintain scalable, reliable automation frameworks aligned with product growth
+          - Apply AI tools to improve test coverage, optimize test design, and accelerate defect detection
+          - Strong focus on quality at scale, fast feedback loops, and CI/CD integration
+          - Collaborate closely with Product, Engineering, and Dev teams to ship high-quality features faster
+
+      - layout: left
         title: National Australian Bank, Vietnam
         # link: boringcompany.com
         # link_text: boringcompany.com
