@@ -48,9 +48,7 @@ linkedin_username: tuan-nguyen-3aa34471
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <mark>Software Engineer in Test</mark> with 15+ years of experience specializing in web and backend application testing. Expert in designing and developing scalable automation testing frameworks with strong hands-on experience in both automated and manual testing. Proven track record in testing large-scale and integration systems.
-
-Actively applying AI-powered tools and techniques to enhance test case design, automation coverage, defect detection, and test maintenance, helping teams improve product quality and accelerate delivery. Passionate about Cloud Computing, modern QA practices, and building high-quality systems from the ground up.
+  <mark>Software Engineer in Test</mark> with 15+ years of experience specializing in web and backend application testing. Expert in designing and developing scalable automation testing frameworks with strong hands-on experience in both automated and manual testing. Proven track record in testing large-scale and integration systems. Actively applying AI-powered tools and techniques to enhance test case design, automation coverage, defect detection, and test maintenance, helping teams improve product quality and accelerate delivery. Passionate about Cloud Computing, modern QA practices, and building high-quality systems from the ground up.
 
 content:
   # - title: Projects # Title for the section
