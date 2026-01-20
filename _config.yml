@@ -81,18 +81,17 @@ content:
         #quote: >
         #  NAB Contact Center
         description: | # this will include new lines to allow paragraphs
-          - Automation Testing and Manual Testing
+          - Automation Testing and Manual Testing with AI-assisted quality workflows for test design, execution, and maintenance
           - Shift-left testing approach
           - Programming languages: Java, JavaScript
-          - Familiarity with Unix-like system, scripting languages
+          - Familiarity with Unix-like systems and scripting languages
           - Team Management
-          - Test framework and libraries: Playwright, Selenium WebDriver, WebDriverIO, RestAssured, TestNG/JUnit, Cypress, Cucumber, BDD, TDD
+          - Test frameworks and libraries: Playwright, Selenium WebDriver, WebDriverIO, RestAssured, TestNG/JUnit, Cypress, Cucumber (BDD), TDD
           - Performance testing tool: K6
-          - Monitor: CloudWatch log, Splunk log
-          - CI/CD: Jenkins, Harness
-          - SVC: Git, SVN
-          - Management tools: qTest, Jira, Rally
-          - AWS Certified Solutions Architect - Associate
+          - Monitoring and observability: AWS CloudWatch Logs, Splunk Logs
+          - CI/CD: Jenkins, Harness, Azure DevOps
+          - Source control: Git, SVN
+          - AWS Certified Solutions Architect – Associate with focus on cloud-native and AI-ready architectures
           - Others: Docker, Kubernetes, Gradle, Maven, npm
 
   - title: Experience # Title for the section
