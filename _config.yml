@@ -107,11 +107,11 @@ content:
         quote: >
           QA Engineer building reliable, scalable quality with Playwright and AI.
         description: | # this will include new lines to allow paragraphs
-          - QA Engineer specializing in web application testing, Playwright automation, and AI-assisted quality workflows
-          - Design and maintain scalable, reliable automation frameworks aligned with product growth
-          - Apply AI tools to improve test coverage, optimize test design, and accelerate defect detection
-          - Strong focus on quality at scale, fast feedback loops, and CI/CD integration
-          - Collaborate closely with Product, Engineering, and Dev teams to ship high-quality features faster
+          - QA Engineer specializing in web application testing, Playwright automation, and AI-assisted quality workflows.
+          - Designed and maintained scalable, reliable automation frameworks aligned with rapid product growth.
+          - Applied AI-assisted testing workflows to improve test coverage, optimize test design, and accelerate defect detection.
+          - Integrated automation into CI/CD pipelines to enable fast feedback loops and high release confidence.
+          - Partnered closely with Product and Engineering teams to ship high-quality features faster.
 
       - layout: left
         title: National Australian Bank, Vietnam
@@ -123,25 +123,11 @@ content:
           NAB Contact Center
         description: | # this will include new lines to allow paragraphs
           - My primary responsibility is to ensure the quality of backend microservices supporting NAB’s call center operations.
-          - Utilize automation tools to optimize the testing process, ensuring system stability and compliance with user requirements.
-          - Set up a test framework from scratch, including tool selection, architecture design, and implementing automated test suites for scalable and maintainable testing.
-          - Work with various testing tools, including:
-            - API Testing: Implemented data-driven testing using Java and JavaScript.
-            - UI Testing: Automated UI tests using Selenium.
-            - Test Data Preparation: Used JavaScript scripts for generating and managing test data.
-            - Database Testing: Developed test data scripts for DynamoDB and PostgreSQL.
-            - Performance Testing: Conducted load and stress testing with K6.
-          - Create detailed test plans, defining strategy, scope, objectives, and risk assessments.
-          - Ensure stability, security, and accuracy of core banking operations, including transactions and customer interactions.
-          - Determine suitable testing types, such as functional testing, integration testing and performance testing.
-          - Conduct functional and non-functional testing on Contact Center features (e.g., API tests, call flow testing).
-          - Validate performance benchmarks and ensure system reliability under peak usage using the K6 library.
-          - Track and manage defects, ensuring timely reporting, follow-ups, and effective collaboration with development teams for resolution.
-          - Coordinate with key stakeholders such as development, project management, customer support, and business analysis teams to ensure product quality and achieve project goals.
-          - Participate in regular meetings, report test results to stakeholders, and propose quality improvement initiatives.
-          - Assign tasks, guide, and support team members in testing activities.
-          - Evaluate team performance and skills to foster professional development and improve overall efficiency.
-          - Train new team members on testing processes, contact center systems, and testing tools.
+          - Lead QA for large-scale banking systems; owned end-to-end test strategy, planning, execution, and reporting.
+          - Designed and scaled automation frameworks for web and API testing; integrated with CI/CD pipelines.
+          - Improved regression efficiency and release stability through automation and optimized test processes.
+          - Led shift-left testing, root cause analysis, and defect prevention across cross-functional teams.
+          - Mentored QA engineers and drove continuous improvement initiatives.
 
       - layout: left
         title: Nash Tech
@@ -152,13 +138,9 @@ content:
         quote: >
           Pinsent Manson  A product to generate and manage legal documents.
         description: | # this will include new lines to allow paragraphs
-          - Work as Test Lead.
-          - Implement Automation testing framework to support UI and API testing in BDD style
-          - Create the technical proposal, estimation plan, test strategy and test plan
-          - Create test cases based on client requirement
-          - Perform code review and manual test cases review
-          - Support juniors in adapting project technical stacks 
-          - Train manual testers to work as automation test engineers
+          - Built automation frameworks for UI and API testing using BDD approach.
+          - Defined test strategy, test plans, and execution processes for client projects.
+          - Led automation adoption and trained manual testers to become automation engineers.
 
       - layout: left
         title: Hansen Technologies
@@ -169,12 +151,10 @@ content:
         quote: >
           A product of Billing Solutions for Energy, Pay TV, Telecom industries.
         description: | # this will include new lines to allow paragraphs
-          - Work as an Automation Test Lead.
-          - Conduct a POC demo to prove the team competencies.
-          - Design and develop automation testing framework using Selenium and RestAssured.
-          - Work towards the solutions for problems in the design and development process.
-          - Implement automation scripts based on manual test cases.
-          - Implement automation testing report.
+          - Designed and developed automation frameworks from scratch.
+          - Established QA processes, standards, and best practices.
+          - Led PoC initiatives to evaluate testing tools and frameworks.
+          - Drove test automation across web applications.
 
       - layout: left
         title: Terralogic Inc.
@@ -185,10 +165,9 @@ content:
         quote: >
           This project is to maintain and develop new features for a healthcare system.
         description: | # this will include new lines to allow paragraphs
-          - Support and overcome members' obstacles.
-          - Monitor workload and work progress to meet the deadline.
-          - Review test cases, test results for members in teams.
-          - Conduct functional test, regression test, and system test.
+          - Owned testing for healthcare systems: functional, regression, and system testing.
+          - Reviewed test cases and mentored junior engineers.
+          - Ensured on-time delivery through quality-driven execution.
 
       - layout: left
         title: Freelancer
@@ -199,9 +178,8 @@ content:
         quote: >
           Build a website based on NodeJS technology.
         description: | # this will include new lines to allow paragraphs
-          - Design frontend/WebUI using Bootstrap framework.
-          - Implement backend using NodeJS technology.
-          - Design/implement database based on MongoDB.
+          - Built full-stack web applications using NodeJS, Bootstrap, and MongoDB.
+          - Designed REST APIs and database architecture.
 
       - layout: left
         title: IMT Solutions
@@ -214,9 +192,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Design and build network infrastructure to set up mail servers.
           - Install, deploy, maintain, and troubleshoot mail servers.
-          - Support customer needs, investigate root causes.
-          - Execute functional test, regression test.
-          - Modify and execute automation test suite.
+          - Performed functional, integration, and regression testing.
+          - Built and maintained test automation suites.
+          - Supported customer issue analysis and production troubleshooting.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
