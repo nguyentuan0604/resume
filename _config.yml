@@ -82,6 +82,7 @@ content:
         #  NAB Contact Center
         description: | # this will include new lines to allow paragraphs
           - Automation Testing and Manual Testing with AI-assisted quality workflows for test design, execution, and maintenance
+          - Promptfoo for automated prompt testing, evaluation, and regression validation.
           - Shift-left testing approach
           - Programming languages: Java, JavaScript
           - Familiarity with Unix-like systems and scripting languages
